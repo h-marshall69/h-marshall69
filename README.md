@@ -10,7 +10,7 @@ const marshall = {
     code: ["Javascript", "Typescript", "C++", "C#", "Java", "PHP", "Python", "Kotlin"],
     askMeAbout: ["Web Development", "Software Development"],
     techstack: {
-        backEnd: ["Node", "Express", "Spring Boot],
+        backEnd: ["Node", "Express", "Spring Boot"],
         frontEnd: ["React", "Vue"],
         mobileApp: ["Flutter", "Kotlin"],
         databases: ["MySQL", "SQLite", "Firebase", "OracleSQL", "MongoDB", "PostgreSQL"],
